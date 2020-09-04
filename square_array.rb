@@ -8,9 +8,7 @@
 #end
 
 def square_array(array)
-  array.collect do |num|
-    num**2
+  array.map
   
   
-end
 end
