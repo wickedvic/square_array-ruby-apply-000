@@ -5,4 +5,11 @@
   #  end
     
   #  return new_arr
+#end
+
+def square_array(array)
+  array.collect * 2
+  
+  
+  
 end
